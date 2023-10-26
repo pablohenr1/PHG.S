@@ -1,0 +1,49 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image: url(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.10wallpaper.com%2Fpt%2Fview%2FCurve_blue_background-Design_HD_Wallpaper.html&psig=AOvVaw3vHuAetOwg3t9SnCkX2taC&ust=1698406249547000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOCcy7rOk4IDFQAAAAAdAAAAABAZ);
+    margin: 0;
+    padding: 0;
+}
+
+
+header {
+    background-color: #333;
+    color: #000000;
+    padding: 10px 0;
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 50px; 
+    text-align: center;
+}
+
+header nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+header nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #fff;
+}
+
+/* Estilize a seção principal */
+section {
+    background-image: url('Fundo.jpg');
+    padding: 20px;
+}
+
+/* Estilize o rodapé */
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 10px 0;
+}
